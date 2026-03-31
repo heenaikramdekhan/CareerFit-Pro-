@@ -181,4 +181,4 @@ Upload multiple resumes and one JD to rank candidates — invert the matching di
 
 ## License
 
-MIT — free to use, modify, and distribute.
+MIT  free to use, modify, and distribute.
